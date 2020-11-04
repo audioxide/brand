@@ -1,11 +1,11 @@
-# brand
+# Audioxide brand
 Guide and reference for the Audioxide brand
 
 ## Audioxide palette
 
-- #000000 <div style="background: #000000; width: 25px; height: 25px"></div>
-- #f01d4f <div style="background: #f01d4f; width: 25px; height: 25px"></div>
-- #f5f5f5 <div style="background: #f5f5f5; width: 25px; height: 25px"></div>
+- ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000`
+- ![#f01d4f](https://placehold.it/15/f01d4f/f01d4f?text=+) `#f01d4f`
+- ![#f5f5f5](https://placehold.it/15/f5f5f5/f5f5f5?text=+) `#f5f5f5`
 
 ## License
 
