@@ -1,0 +1,10 @@
+{
+  "name": "@audioxide/brand",
+  "version": "0.1.0",
+  "description": "Audioxide brand assets",
+  "main": "README.md",
+  "repository": "git@github.com:audioxide/brand.git",
+  "author": "Andrew Bridge <andrew@andrewhbridge.co.uk> (https://github.com/andrewbridge)",
+  "license": "CC-BY-NC-ND-4.0",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
