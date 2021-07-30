@@ -1,6 +1,12 @@
 # Audioxide brand
 Guide and reference for the Audioxide brand
 
+## Fonts
+
+- [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
+- [Spectral](https://fonts.google.com/specimen/Spectral)
+- [Rounded Elegance](https://www.cdnfonts.com/rounded-elegance.font)
+
 ## Palette
 
 - ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000`
